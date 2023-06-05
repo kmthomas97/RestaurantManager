@@ -30,6 +30,7 @@ set(PROJECT_SOURCES
         findproduct.cpp
         findproduct.ui
         databaseheader.h
+        resource.qrc
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
